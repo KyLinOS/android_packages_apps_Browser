@@ -400,10 +400,6 @@
     <string name="accessibility_button_bookmarks_folder_up" msgid="9179389954714270505">"上一个文件夹"</string>
 
     <string-array name="bookmarks" translatable="false">
-        <item>魔趣安卓论坛－民间的、技术的、温馨的、崇尚分享精神的安卓手机交流社区</item>
-        <item>http://bbs.mfunz.com</item>
-        <item>魔趣市场-安卓游戏|软件|工具|应用下载网站-最有趣的安卓应用市场</item>
-        <item>http://apk.mfunz.com</item>
         <item>百度一下，你就知道</item>
         <item>http://m.baidu.com/?from=1677a</item>
         <item>Google</item>
